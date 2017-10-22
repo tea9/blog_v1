@@ -3,7 +3,7 @@ title: iscre Blog
 SEOTitle: 邵淼的博客 | iscre Blog
 header-img: img/home-bg.jpg
 email: shaomiaojava@gmail.com
-description: "迷茫与坚持|迷恋任何新鲜有趣的事|孤独的自然人"
+description: "迷茫与坚持|迷恋任何新鲜有趣的事"
 keyword: "shaomiao,blog,shaomiao blog,android,html,逆向"
 url: "https://shaomiao.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -67,7 +67,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "迷茫与坚持 <br>迷恋任何新鲜有趣的事 <br>孤独的自然人"
+sidebar-about-description: "迷茫与坚持 <br>迷恋任何新鲜有趣的事 <br>孤独"
 sidebar-avatar: /img/avatar-shao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
