@@ -1,13 +1,12 @@
 ---
 layout:     post
 title:      "安卓转换时区+8-2016-07-21T12-17-34-000Z"
-date:       2017-10-17
+date:       2017-10-21
 author:     "shaomiao"
 header-img: "img/post-bg-android.jpg"
 tags:
-    - Android
+    - "android"
 ---
-
 安卓转换时区2016-07-21T12:17:34.000Z转换成+8个小时
 
 	public static String formatDate(String date){
@@ -36,4 +35,3 @@ tags:
 
 转换前的时间2016-07-21T12:17:34.000Z
 转换后的时间2016-07-21 20:17:34
-

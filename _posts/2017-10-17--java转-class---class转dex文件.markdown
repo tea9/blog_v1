@@ -1,13 +1,12 @@
 ---
 layout:     post
 title:      "-java转-class---class转dex文件"
-date:       2017-10-17
+date:       2017-10-21
 author:     "shaomiao"
 header-img: "img/post-bg-android.jpg"
 tags:
-    - Android
+    - "android"
 ---
-
 javac Hello.java
 dx --dex -- output=Hello.dex Hello.class
 javap -c -classpath . Hello

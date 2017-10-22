@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      "安卓-RecyclerView"
-date:       2017-10-17
+title:      "安卓-RecyclerView-"
+date:       2017-10-21
 author:     "shaomiao"
 header-img: "img/post-bg-android.jpg"
 tags:
-    - Android
+    - "android"
 ---
-
 ####目录结构：
 
 ![20160812181911.png](http://upload-images.jianshu.io/upload_images/2590671-0acae4207474c7f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
